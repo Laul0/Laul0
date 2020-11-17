@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 * [Elasticsearch as search engine for your Ghost blog](https://blog.lsonline.fr/2020/07/08/elasticsearch-as-search-engine-for-your-ghost-blog/)
 * [Configure dynamic fields on your SharePoint Forms](https://blog.lsonline.fr/2020/06/18/configure-dynamic-fields-on-your-sharepoint-forms/)
 
-[➕ More...]()
+[➕ More...](https://blog.lsonline.fr)
 
 ---
 
