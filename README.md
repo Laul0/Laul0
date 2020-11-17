@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-- 🏆 My favorite sport practice is the Hockey
-
+- 🏆 I love to play Hockey and/or 🍻 drink a beer with friends
 
 <!-- Available icons: https://gist.github.com/rxaviers/7360908 -->
 #### Follow Me
@@ -31,7 +30,9 @@ Here are some ideas to get you started:
 ![https://www.linkedin.com/in/lsittler](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
 ![https://gitlab.lsonline.fr/lsittler](https://img.shields.io/badge/gitlab-%233f3177.svg?&style=for-the-badge&logo=gitlab&logoColor=white&countColor=%232ea44f)
 
-#### 📮 Latest Blog Posts
+---
+
+#### ✏️ Latest Blog Posts
 
 * [Group People WebPart v1.1.0](https://blog.lsonline.fr/2020/09/24/group-people-webpart/)
 * [How to request and expose your Elasticsearch engine for your Ghost blog](https://blog.lsonline.fr/2020/07/17/how-to-request-and-expose-your-elasticsearch-engine-for-your-ghost-blog/)
@@ -40,7 +41,9 @@ Here are some ideas to get you started:
 
 [➕ More...]()
 
-#### Latest SharePoint Framework Components
+---
+
+#### 📐 Latest SharePoint Framework Components
 
 * [Favicon SPFx extension for SharePoint](https://blog.lsonline.fr/2020/10/31/favicon-spfx-extension-for-sharepoint/)
 * [A SPFx Table Of Contents Extension for SharePoint](https://blog.lsonline.fr/2020/05/13/a-spfx-table-of-contents-extension-for-sharepoint/)
