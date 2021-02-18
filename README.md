@@ -34,12 +34,11 @@ Here are some ideas to get you started:
 
 #### ✏️ Latest Blog Posts
 
+* [Fluent UI and Ghost](https://blog.lsonline.fr/2021/01/11/fluent-ui-and-ghost/)
+* [Creating a no code Contact Form for your SharePoint Intranet](https://blog.lsonline.fr/2021/01/03/creating-a-no-code-contact-form-for-your-sharepoint-intranet/)
 * [Scroll to Top SPFx extension v1.1.0](https://blog.lsonline.fr/2020/12/05/scroll-to-top-spfx-extension-v1-1-0/)
 * [SharePoint Modern Calendar view for events](https://blog.lsonline.fr/2020/12/05/sharepoint-modern-calendar-view-for-events/)
 * [The tools for a SharePoint developer - Part 2](https://blog.lsonline.fr/2020/12/03/the-tools-for-a-sharepoint-developer-part-2/)
-* [SPFx Table Of Contents Extension v1.0.0](https://blog.lsonline.fr/2020/11/26/spfx-table-of-contents-extension-v1-0-0/)
-* [Group People WebPart v1.1.0](https://blog.lsonline.fr/2020/09/24/group-people-webpart/)
-* [How to request and expose your Elasticsearch engine for your Ghost blog](https://blog.lsonline.fr/2020/07/17/how-to-request-and-expose-your-elasticsearch-engine-for-your-ghost-blog/)
 
 [➕ More...](https://blog.lsonline.fr)
 
