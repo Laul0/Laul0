@@ -3,7 +3,7 @@
 ---
 
 ![https://blog.lsonline.fr](https://img.shields.io/badge/Blog-lsonline.fr-green?style=for-the-badge&logo=RSS)
-![https://www.umaknow.com](https://img.shields.io/badge/Architect-umaknow-%23232427?style=for-the-badge&logo=microsoft-office)
+![https://lsonline.fr](https://img.shields.io/badge/Architect-Microsoft%20365-%23232427?style=for-the-badge&logo=microsoft-office)
 
 I'm a 🇫🇷 Microsoft 365 consultant/architect - working, learning and sharing about my interests.
 
