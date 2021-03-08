@@ -13,7 +13,7 @@ I'm a 🇫🇷 Microsoft 365 consultant/architect - working, learning and sharin
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working at [UMAKnow](https://www.umaknow.com/) as Microsoft 365 Architect/Consultant
+- 🔭 I’m currently working as Microsoft 365 Architect/Consultant
 - 🌱 I’m currently learning about Unit Tests, CI/CD, Lint
 - 👯 I’m looking to collaborate with passionated people
 <!-- - 🤔 I’m looking for help with ... -->
