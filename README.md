@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 #### ✏️ Latest Blog Posts
 
+* [How to Deploy & Manage your Ghost Theme with any Pipeline](https://blog.lsonline.fr/2021/04/14/how-to-deploy-manage-your-ghost-theme-with-any-pipeline/)
+* [SharePoint Framework Unit Tests - TypeScript](https://blog.lsonline.fr/2021/03/01/sharepoint-framework-unit-tests-typescript/)
+* [SharePoint Client Side Page Author](https://blog.lsonline.fr/2021/02/28/sharepoint-client-side-page-author/)
 * [Fluent UI and Ghost](https://blog.lsonline.fr/2021/01/11/fluent-ui-and-ghost/)
 * [Creating a no code Contact Form for your SharePoint Intranet](https://blog.lsonline.fr/2021/01/03/creating-a-no-code-contact-form-for-your-sharepoint-intranet/)
-* [Scroll to Top SPFx extension v1.1.0](https://blog.lsonline.fr/2020/12/05/scroll-to-top-spfx-extension-v1-1-0/)
-* [SharePoint Modern Calendar view for events](https://blog.lsonline.fr/2020/12/05/sharepoint-modern-calendar-view-for-events/)
-* [The tools for a SharePoint developer - Part 2](https://blog.lsonline.fr/2020/12/03/the-tools-for-a-sharepoint-developer-part-2/)
 
 [➕ More...](https://blog.lsonline.fr)
 
