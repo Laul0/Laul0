@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 #### ✏️ Latest Blog Posts
 
+* [Using TestCafé for e2e testing your SPFx solutions](https://blog.lsonline.fr/2021/04/15/using-testcafe-for-e2e-testing-your-spfx-solutions/)
 * [How to Deploy & Manage your Ghost Theme with any Pipeline](https://blog.lsonline.fr/2021/04/14/how-to-deploy-manage-your-ghost-theme-with-any-pipeline/)
 * [SharePoint Framework Unit Tests - TypeScript](https://blog.lsonline.fr/2021/03/01/sharepoint-framework-unit-tests-typescript/)
 * [SharePoint Client Side Page Author](https://blog.lsonline.fr/2021/02/28/sharepoint-client-side-page-author/)
 * [Fluent UI and Ghost](https://blog.lsonline.fr/2021/01/11/fluent-ui-and-ghost/)
-* [Creating a no code Contact Form for your SharePoint Intranet](https://blog.lsonline.fr/2021/01/03/creating-a-no-code-contact-form-for-your-sharepoint-intranet/)
 
 [➕ More...](https://blog.lsonline.fr)
 
