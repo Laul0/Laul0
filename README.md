@@ -2,8 +2,8 @@
 
 ---
 
-![https://blog.lsonline.fr](https://img.shields.io/badge/Blog-lsonline.fr-green?style=for-the-badge&logo=RSS)
-![https://lsonline.fr](https://img.shields.io/badge/Architect-Microsoft%20365-%23232427?style=for-the-badge&logo=microsoft-office)
+[![https://blog.lsonline.fr](https://img.shields.io/badge/Blog-lsonline.fr-green?style=for-the-badge&logo=RSS)](https://blog.lsonline.fr)
+[![https://lsonline.fr](https://img.shields.io/badge/Architect-Microsoft%20365-%23232427?style=for-the-badge&logo=microsoft-office)](https://lsonline.fr)
 
 I'm a 🇫🇷 Microsoft 365 consultant/architect - working, learning and sharing about my interests.
 
@@ -26,19 +26,19 @@ Here are some ideas to get you started:
 <!-- Available icons: https://gist.github.com/rxaviers/7360908 -->
 #### Follow Me
 
-![https://twitter.com/laul0_68](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f)
-![https://www.linkedin.com/in/lsittler](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
-![https://gitlab.lsonline.fr/lsittler](https://img.shields.io/badge/gitlab-%233f3177.svg?&style=for-the-badge&logo=gitlab&logoColor=white&countColor=%232ea44f)
+[![https://twitter.com/laul0_68](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f)](https://twitter.com/laul0_68)
+[![https://www.linkedin.com/in/lsittler](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lsittler)
+[![https://gitlab.lsonline.fr/lsittler](https://img.shields.io/badge/gitlab-%233f3177.svg?&style=for-the-badge&logo=gitlab&logoColor=white&countColor=%232ea44f)](https://gitlab.lsonline.fr/lsittler)
 
 ---
 
 #### ✏️ Latest Blog Posts
 
+* [One or multiple Power Automate Flows?](https://blog.lsonline.fr/2021/08/07/one-or-several-power-automate/)
+* [Tools to check your PowerShell Code Quality and Coverage](https://blog.lsonline.fr/2021/06/04/tools-to-check-your-powershell-code-quality-and-coverage/)
+* [SharePoint Framework Unit Tests - React](https://blog.lsonline.fr/2021/05/24/sharepoint-framework-unit-tests-react/)
 * [Using TestCafé for e2e testing your SPFx solutions](https://blog.lsonline.fr/2021/04/15/using-testcafe-for-e2e-testing-your-spfx-solutions/)
 * [How to Deploy & Manage your Ghost Theme with any Pipeline](https://blog.lsonline.fr/2021/04/14/how-to-deploy-manage-your-ghost-theme-with-any-pipeline/)
-* [SharePoint Framework Unit Tests - TypeScript](https://blog.lsonline.fr/2021/03/01/sharepoint-framework-unit-tests-typescript/)
-* [SharePoint Client Side Page Author](https://blog.lsonline.fr/2021/02/28/sharepoint-client-side-page-author/)
-* [Fluent UI and Ghost](https://blog.lsonline.fr/2021/01/11/fluent-ui-and-ghost/)
 
 [➕ More...](https://blog.lsonline.fr)
 
