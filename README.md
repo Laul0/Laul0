@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as Microsoft 365 Architect/Consultant
-- 🌱 I’m currently learning about Unit Tests, CI/CD, Lint
+- 🌱 I’m currently learning about Viva, CI/CD, Automation
 - 👯 I’m looking to collaborate with passionated people
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about SharePoint, SPFx, PowerShell, CLI for Microsoft 365 and more...
@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 #### ✏️ Latest Blog Posts
 
+* [Using Resource Files with your Power Apps](https://blog.lsonline.fr/2022/05/02/using-resource-files-with-your-power-apps/)
+* [How to manage the SharePoint Hub Sites associations](https://blog.lsonline.fr/2021/10/08/how-to-manage-the-sharepoint-hub-sites-associations/)
+* [Create / Update ListItem Fields from PowerApps](https://blog.lsonline.fr/2021/08/20/create-update-listitem-fields-from-powerapps/)
 * [One or multiple Power Automate Flows?](https://blog.lsonline.fr/2021/08/07/one-or-several-power-automate/)
 * [Tools to check your PowerShell Code Quality and Coverage](https://blog.lsonline.fr/2021/06/04/tools-to-check-your-powershell-code-quality-and-coverage/)
-* [SharePoint Framework Unit Tests - React](https://blog.lsonline.fr/2021/05/24/sharepoint-framework-unit-tests-react/)
-* [Using TestCafé for e2e testing your SPFx solutions](https://blog.lsonline.fr/2021/04/15/using-testcafe-for-e2e-testing-your-spfx-solutions/)
-* [How to Deploy & Manage your Ghost Theme with any Pipeline](https://blog.lsonline.fr/2021/04/14/how-to-deploy-manage-your-ghost-theme-with-any-pipeline/)
 
 [➕ More...](https://blog.lsonline.fr)
 
